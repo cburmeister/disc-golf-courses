@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=5646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44209051132201,
+          45.55658208291394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=1776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24414348602295,
+          45.544320541458134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=1775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2217845916748,
+          45.54819764153181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75530815124512,
+          45.60392017002318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=1586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77542209625244,
+          45.296052543447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69827365875243,
+          45.473147841068524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=1650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89242267608641,
+          45.53558857339719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=2702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01893711090088,
+          45.68255839413016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=4170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.18551301956177,
+          45.74169674202198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37091541290285,
+          45.30688918913041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=7069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.04829120635985,
+          45.08400578605924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.21836471557617,
+          43.31593595125799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=1707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.76232147216797,
+          41.9290701234601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3759331703186,
+          41.91482871717884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=4665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.30561637878418,
+          41.8956009713315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=2983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.33775997161865,
+          42.113123203397194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3834433555603,
+          41.738432400197574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30684280395508,
+          47.48471442655529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2966718673706,
+          47.789502470713664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=7255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2952904701233,
+          43.02447856436695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.367280960083,
+          43.21864092428644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69715785980226,
+          47.57972469053701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=4610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3426878452301,
+          47.50487393762691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=2569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79486536979675,
+          45.459295327466556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=3578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01816463470459,
+          45.68168890702989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35260665416718,
+          45.51736129434549
+        ]
+      }
+    }
+  ]
+}
