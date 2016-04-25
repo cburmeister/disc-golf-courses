@@ -432,6 +432,38 @@
           45.250842310004394
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=2528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3007950782776,
+          20.71348978265165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=6069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.47931218147278,
+          20.880585980745977
+        ]
+      }
     }
   ]
 }
