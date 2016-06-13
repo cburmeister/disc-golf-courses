@@ -496,6 +496,22 @@
           47.651107947283364
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/course.php?id=747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88726210594176,
+          46.03354514684777
+        ]
+      }
     }
   ]
 }
