@@ -560,6 +560,22 @@
           39.01091428117347
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.dgcoursereview.com/reviews.php?id=4872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9427652359009,
+          39.2442191460775
+        ]
+      }
     }
   ]
 }
