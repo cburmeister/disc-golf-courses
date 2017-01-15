@@ -576,6 +576,22 @@
           39.2442191460775
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "http://www.pdga.com/course-directory/course/xkaluah-disc-golf-course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.12904930114746,
+          20.925046847296752
+        ]
+      }
     }
   ]
 }
