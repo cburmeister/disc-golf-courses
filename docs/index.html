@@ -5,10 +5,27 @@
         <link rel="stylesheet" href="http://coreyburmeister.com/static/style.css" type="text/css" />
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Serif" type="text/css" />
     </head>
+    <style>
+        .google-maps {
+            position: relative;
+            padding-bottom: 75%; // This is the aspect ratio
+            height: 0;
+            overflow: hidden;
+        }
+        .google-maps iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100% !important;
+            height: 100% !important;
+        }
+    </style>
     <body>
         <h1>Mapping disc golf courses</h1>
         <p>All the disc golf courses i've played at.</p>
-        <script src="https://embed.github.com/view/geojson/cburmeister/disc-golf-courses/master/courses.geojson"></script>
+        <div class="google-maps">
+            <script src="https://embed.github.com/view/geojson/cburmeister/disc-golf-courses/master/courses.geojson"></script>
+        </div>
         <p>Maintained with <a href="http://geojson.io/">geojson.io</a>.</p>
     </body>
 </html>
