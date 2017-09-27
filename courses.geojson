@@ -608,6 +608,22 @@
           44.43310567125179
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "url": "https://www.dgcoursereview.com/course.php?id=7511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.85597419738771,
+          37.32137807232044
+        ]
+      }
     }
   ]
 }
